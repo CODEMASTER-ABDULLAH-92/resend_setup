@@ -1,4 +1,3 @@
-=======
 # 🚀 Resend Email Provider Complete Setup
 
 A sleek **full-stack contact form** with React frontend & Node.js backend using Resend Email Provider. Easy to set up, secure, and stylish!
