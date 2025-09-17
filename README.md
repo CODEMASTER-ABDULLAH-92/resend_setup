@@ -25,14 +25,17 @@ A sleek **full-stack contact form** with React frontend & Node.js backend using 
 
 ## ⚡ Quick Start
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
    git clone https://github.com/CODEMASTER-ABDULLAH-92/resend_setup.git
    npm install
    ```
-   ---
-   
+---
+2. **Env Variable**
+- RESEND_KEY=Your_resend_api_key
+---
+3. **Backend Code**
 ```bash
 import { Resend } from "resend";
 
@@ -66,7 +69,7 @@ export async function POST(req) {
 }
 ```
 
-**3. Frontend Code**
+**4. Frontend Code**
 
 ```bash
 "use client";
