@@ -28,7 +28,7 @@ A sleek **full-stack contact form** with React frontend & Node.js backend using 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/CODEMASTER-ABDULLAH-92/nodemailer_complete_setup.git
+   git clone https://github.com/CODEMASTER-ABDULLAH-92/resend_setup.git
    npm install
    ```
    ---
